@@ -131,7 +131,6 @@ main article p a::after{
 
 main article p abbr{
     text-decoration: none;
-    cursor: pointer;
     color: rgb(134, 134, 134);
 }
 
