@@ -70,10 +70,6 @@ header nav > a{
     color: black;
 }
 
-header nav a:visited{
-    color: inherit;
-}
-
 header nav a:hover{
     background-color: #FFE18F;
     color: var(--cor2);
@@ -205,11 +201,6 @@ aside ul li > a{
     text-decoration: none;
     font-weight: 500;
     cursor: pointer;
-    color: inherit;
-}
-
-aside ul li a:visited{
-    color: inherit;
 }
 
 aside ul li a:hover{
@@ -286,8 +277,4 @@ footer p a{
 
 footer p a:hover{
     text-decoration: underline;
-}
-
-footer p a:visited{
-    color: inherit;
 }
