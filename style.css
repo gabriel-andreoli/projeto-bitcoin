@@ -112,6 +112,7 @@ main article p a{
     font-weight: bold;
     text-decoration: none;
     cursor: pointer;
+    color: black;
 }
 
 main article p a:visited{
@@ -283,12 +284,13 @@ footer p{
 footer p a{
     text-decoration: none;
     cursor: pointer;
-}
-
-footer p a:hover{
-    text-decoration: underline;
+    color: black;
 }
 
 footer p a:visited{
     color: inherit;
+}
+
+footer p a:hover{
+    text-decoration: underline;
 }
